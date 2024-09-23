@@ -30,7 +30,7 @@ La aplicación también ofrece una API RESTful para gestionar empleados. Las sol
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone https://github.com/TheOliver413/TalentManager.git
+   git clone https://github.com/TheOliver413/prueba_tecnica.git
    cd tu-repo
 
 1. **Instalar las dependencias**:
